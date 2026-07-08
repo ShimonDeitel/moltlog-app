@@ -6,5 +6,4 @@ struct MoltLogEntry: Identifiable, Codable, Equatable {
     var date: Date
     var animal: String
     var notes: String
-    var notes: String = ""
 }
